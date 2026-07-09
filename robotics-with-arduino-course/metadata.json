@@ -1,0 +1,6 @@
+{
+  "name": "Robotics with Arduino Course",
+  "description": "A professional landing page for the Robotics with Arduino beginner course by Zerone Training Academy, featuring course details, modules, and an enrollment flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
