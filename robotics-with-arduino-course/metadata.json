@@ -1,6 +1,6 @@
 {
-  "name": "Robotics with Arduino Course",
-  "description": "A professional landing page for the Robotics with Arduino beginner course by Zerone Training Academy, featuring course details, modules, and an enrollment flow.",
+  "name": "Zeron Training Academy",
+  "description": "Premium Bangladesh-based Robotics and Arduino training academy with full-featured learning management system.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
